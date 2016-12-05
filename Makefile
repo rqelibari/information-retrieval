@@ -1,0 +1,1 @@
+./vendors/cpp-project-template/Makefile
